@@ -1,8 +1,6 @@
 # Brewery
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/brewery`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome! This is a Command Line Interface to search for breweries by state. Simply enter the states abbreviation and a list of breweries will be returned with name, address, website, phone number, and type of brewery!
 
 ## Installation
 
